@@ -1,0 +1,16 @@
+,
+Result,Value
+Original dataset size,"(822, 472)"
+Final analytic sample,"(559, 472)"
+PCR-negative patients,501
+PCR-positive patients,58
+Best model by AUC,LASSO
+Best model AUC,0.9171
+Best model accuracy,0.9286
+Best model F1,0.7059
+Best model McFadden R2,0.1542
+Number of selected features,40
+Number of features after interactions,165
+Number of LASSO direct predictors,15
+Top DEMI total effect predictor,36104-Post_vaccinefactors-12
+,
