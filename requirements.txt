@@ -6,4 +6,5 @@ seaborn
 shap
 xgboost
 openpyxl
+networkx
 jupyter
